@@ -2,4 +2,8 @@ creating local file
 change b4 commit
 going back to prev stage
 
+<<<<<<< HEAD
 
+=======
+adding to branch and merge check
+>>>>>>> adding
